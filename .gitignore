@@ -1,0 +1,22 @@
+# 权重文件
+*.pth
+*.ckpt
+*.bin
+
+# 文件夹
+reproduce/
+tools/
+paper_figures/
+
+# 文件类型
+*.md
+*.tex
+*.log
+
+# 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+pth/
+figs/
+lreid_dataset/
